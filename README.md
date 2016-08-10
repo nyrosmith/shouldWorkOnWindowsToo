@@ -1,9 +1,10 @@
 ## Why?
 Javascript is awesome but very often I find repositories that cannot be maintained/used on Windows. Sometimes the maintainers of these repos even don't know that something doesn't run on Windows because nobody of the team uses Windows.
 
+I want to change this. **Please help me making OSS dx great on all platforms again!**
+
 I'll regularly go through all reported issues and try to solve them. Please don't think I am a pro on your codebase or I have some magical superpowers but I'll do my best to help whenever I can!
 
-I want to change this. **Please help me making OSS dx great on all platforms again!**
 
 ## Which types of issues can be added?
 - It is not a port of an existing feature for other platforms
