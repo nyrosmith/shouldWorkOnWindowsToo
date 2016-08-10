@@ -1,10 +1,12 @@
-## Why?
-Javascript is awesome but very often I find repositories that cannot be maintained/used on Windows. Sometimes the maintainers of these repos even don't know that something doesn't run on Windows because nobody of the team uses Windows.
+## The mission
+Javascript is awesome but very often there are repositories that cannot be maintained/used on Windows. Sometimes the maintainers of these repos even don't know that something doesn't run on Windows because nobody of the team uses Windows. Sometimes they don't have the environment at hands to test/debug the reported issue.
 
-I want to change this. **Please help me making OSS dx great on all platforms again!**
+So the idea is to add those iisues here too to have a collection of issues that need helping hands on that topic.
+
 
 I'll regularly go through all reported issues and try to solve them. Please don't think I am a pro on your codebase or I have some magical superpowers but I'll do my best to help whenever I can!
 
+**Please help making OSS dx great on all platforms!**
 
 ## Which types of issues can be added?
 - It is not a port of an existing feature for other platforms
